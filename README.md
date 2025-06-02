@@ -1,4 +1,4 @@
-# face recognition attendance system
+# Face Recognition Attendance System
 
 ## Overview
 This is a face recognition system that can register new faces, recognize known faces, and maintain attendance records. The system uses Python and popular computer vision libraries to perform these tasks.
